@@ -1,11 +1,53 @@
-# Words Searching Game
-**Words Search** is a game created using the **Python's Tkinter Library**. This game randomly arranges **10 different words**, obtained 
-from a word bank, in **different orientations**. The player has to choose the correct letters that makes a whole word. If the player 
-selects a wrong letter, he/she **loses a chance**. There are **total 10 chances**. If all chances are gone, the game ends. There is an 
-exit button as well to end the game.
+# 🧩 Word Search Puzzle Game
 
-## Sample Images
+**Word Search** is a fun and interactive puzzle game built using **Python's Tkinter library**. The game randomly arranges **10 different words** from a word bank in various orientations. Your mission? Find and select the correct letters to form complete words before your chances run out!
 
-![words search game start](words-search-pic1.PNG)
-![words search game word found](words-search-pic2.PNG)
-![words search game end](words-search-pic3.PNG)
+## 🎮 Gameplay Overview
+
+- 🔠 Randomly generated word grid
+- 🧠 Select letters to form valid words
+- ❌ Wrong selections cost you a chance
+- 💯 You get **10 chances** to complete the puzzle
+- 🚪 Exit button to quit anytime
+
+## 🖼️ Screenshots
+
+| Start Screen | Word Found | Game Over |
+|--------------|------------|-----------|
+| ![Start](https://github.com/sudharshan59/word-puzzle/raw/main/words-search-pic1.PNG) | ![Found](https://github.com/sudharshan59/word-puzzle/raw/main/words-search-pic2.PNG) | ![End](https://github.com/sudharshan59/word-puzzle/raw/main/words-search-pic3.PNG) |
+
+## 🛠️ Tech Stack
+
+- Python 3.x
+- Tkinter (GUI library)
+
+## 📥 Getting Started
+
+```bash
+# Clone the repository
+git clone https://github.com/sudharshan59/word-puzzle.git
+cd word-puzzle
+
+# Run the game
+python word_search_game.py
+Make sure you have Python installed and Tkinter available in your environment.
+
+📌 Features to Explore
+Dynamic word placement
+
+Real-time feedback on selections
+
+Visual cues for correct and incorrect choices
+
+Simple and clean UI for all age groups
+
+🙌 Contributing
+Want to add new word banks, difficulty levels, or animations? Fork the repo and send a pull request!
+
+📄 License
+This project is licensed under the MIT License.
+
+👤 Author
+Created by Sudharshanmonith Let’s make learning and gaming smarter together!
+
+
